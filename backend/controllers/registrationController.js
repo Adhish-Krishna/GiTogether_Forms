@@ -353,7 +353,7 @@ const sendConfirmationEmail = async (recipientEmail) => {
                   <p><b>Event Details:</b></p>
                   <p>&nbsp;&nbsp;&nbsp;<b>Event Date:</b> 14th November 2024</p>
                   <p>&nbsp;&nbsp;&nbsp;<b>Event Time:</b> 3:45 p.m - 6 p.m IST</p>
-                  <p>&nbsp;&nbsp;&nbsp;<b>Venue:</b> 3AI Lab and SCPSC Lab, E-Block 3rd Floor</p>
+                  <p>&nbsp;&nbsp;&nbsp;<b>Venue:</b> 3AI Lab and SCPS Lab, E-Block 3rd Floor</p>
                   <p><b>Please add a reminder to Google Calendar</b></p>
                   <table role="presentation" border="0" cellpadding="0" cellspacing="0" class="btn btn-primary">
                     <tbody>
